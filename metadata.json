@@ -1,0 +1,6 @@
+{
+  "name": "Saran Golden Transport",
+  "description": "Official website for Saran Golden Transport, a premier truck transport and booking agency in Batala, Punjab.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
